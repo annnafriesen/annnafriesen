@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Anna Friesen, a student at UBC studying Cognitive Systems.
 
 <!--
 **annnafriesen/annnafriesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
